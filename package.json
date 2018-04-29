@@ -2,10 +2,10 @@
   "name": "twitter-api-backend",
   "version": "1.0.0",
   "description": "backend for twitter api project",
-  "main": "main.ts",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/main.ts"
+    "start": "ts-node src/index.ts"
   },
   "author": "Kody Bentley",
   "license": "ISC",
